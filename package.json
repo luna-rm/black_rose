@@ -1,7 +1,8 @@
 {
-  "name": "black-rose-s2-color-theme",
+  "name": "black-rose-theme",
   "displayName": "black-rose-s2-color-theme",
   "description": "color!",
+  "publisher": "luna",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.81.0"
