@@ -3,7 +3,7 @@
   "displayName": "black-rose-s2-color-theme",
   "description": "color!",
   "publisher": "luna",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.81.0"
   },
