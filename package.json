@@ -1,0 +1,21 @@
+{
+  "name": "black-rose-s2-color-theme",
+  "displayName": "black-rose-s2-color-theme",
+  "description": "color!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "black rose",
+        "uiTheme": "vs-dark",
+        "path": "./themes/black rose-color-theme.json"
+      }
+    ]
+  }
+}
