@@ -1,4 +1,5 @@
 red i guess
+dont like yellow anymore
 
 dont forgor
 	"editorBracketHighlight.foreground1": "#ff154c",
