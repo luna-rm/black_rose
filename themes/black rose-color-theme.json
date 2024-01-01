@@ -39,7 +39,7 @@
 		"name": "support.variable.magic.python",
 		"scope": "support.variable.magic.python",
 		"settings": {
-		  "foreground": "#47a4f7"
+		  "foreground": "#c4c4c4"
 		}
 	  },
 	  {
@@ -81,7 +81,7 @@
 		"name": "variable.language.rust",
 		"scope": "variable.language.rust",
 		"settings": {
-		  "foreground": "#47a4f7"
+		  "foreground": "#c4c4c4"
 		}
 	  },
 	  {
@@ -252,7 +252,7 @@
 		"name": "java variable.name",
 		"scope": "meta.definition.variable.name.java",
 		"settings": {
-		  "foreground": "#47a4f7"
+		  "foreground": "#c4c4c4"
 		}
 	  },
 	  {
@@ -336,7 +336,7 @@
 		"name": "js variable readwrite",
 		"scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
 		"settings": {
-		  "foreground": "#47a4f7"
+		  "foreground": "#c4c4c4"
 		}
 	  },
 	  {
@@ -412,7 +412,7 @@
 		"name": "js dom variable",
 		"scope": "support.variable.dom,support.variable.property.dom",
 		"settings": {
-		  "foreground": "#47a4f7"
+		  "foreground": "#c4c4c4"
 		}
 	  },
 	  {
@@ -639,7 +639,7 @@
 		"name": "Class name php",
 		"scope": "variable.other.class.php",
 		"settings": {
-		  "foreground": "#47a4f7"
+		  "foreground": "#c4c4c4"
 		}
 	  },
 	  {
@@ -976,7 +976,7 @@
 		"name": "Embedded",
 		"scope": "punctuation.section.embedded, variable.interpolation",
 		"settings": {
-		  "foreground": "#47a4f7"
+		  "foreground": "#c4c4c4"
 		}
 	  },
 	  {
@@ -1284,7 +1284,7 @@
 		"name": "cs local variable",
 		"scope": "entity.name.variable.local.cs",
 		"settings": {
-		  "foreground": "#47a4f7"
+		  "foreground": "#c4c4c4"
 		}
 	  },
 	  {
@@ -1364,7 +1364,7 @@
 		  "meta.property.object"
 		],
 		"settings": {
-		  "foreground": "#47a4f7"
+		  "foreground": "#c4c4c4"
 		}
 	  },
 	  {
@@ -1373,7 +1373,7 @@
 		  "variable.parameter.function.js"
 		],
 		"settings": {
-		  "foreground": "#47a4f7"
+		  "foreground": "#c4c4c4"
 		}
 	  },
 	  {
@@ -1529,7 +1529,7 @@
 		  "variable.parameter.function.coffee"
 		],
 		"settings": {
-		  "foreground": "#47a4f7"
+		  "foreground": "#c4c4c4"
 		}
 	  },
 	  {
@@ -1583,7 +1583,7 @@
 		  "meta.definition.variable.name.groovy"
 		],
 		"settings": {
-		  "foreground": "#47a4f7"
+		  "foreground": "#c4c4c4"
 		}
 	  },
 	  {
@@ -1625,7 +1625,7 @@
 		  "text.bracketed"
 		],
 		"settings": {
-		  "foreground": "#47a4f7"
+		  "foreground": "#c4c4c4"
 		}
 	  },
 	  {
